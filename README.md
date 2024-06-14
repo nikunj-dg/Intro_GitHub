@@ -1,2 +1,2 @@
 # Intro_GitHub
-Test repo providing introduction to GitHub
+Test repo providing introduction to and practicing GitHub !
